@@ -50,15 +50,6 @@ Open frontend/index.html directly in browser
 (Or use Live Server in VS Code)
 
 ##  OUTPUT
+The output is in screenshots folder. 
 
-## screenshots
-
-### login Page
-![login Page](screenshots/login.png)
-
-### dashboard
-![dashboard Page](screenshots/dashboard.png)
-
-### leaderboard
-![leaderboard Page](screenshots/leaderboard.png)
 
