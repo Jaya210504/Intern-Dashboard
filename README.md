@@ -51,7 +51,7 @@ Open frontend/index.html directly in browser
 
 ##  OUTPUT
 
-## Screenshots
+## screenshots
 
 ### Login Page
 ![Login Page](screenshots/login.png)
