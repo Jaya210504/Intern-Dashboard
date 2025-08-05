@@ -51,11 +51,14 @@ Open frontend/index.html directly in browser
 
 ##  OUTPUT
 
+## Screenshots
+
 ### Login Page
 ![Login Page](screenshots/login.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard Page](screenshots/dashboard.png)
 
 ### Leaderboard
-![Leaderboard](screenshots/leaderboard.png)
+![Leaderboard Page](screenshots/leaderboard.png)
+
