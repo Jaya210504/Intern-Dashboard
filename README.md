@@ -53,12 +53,12 @@ Open frontend/index.html directly in browser
 
 ## screenshots
 
-### Login Page
-![Login Page](screenshots/login.png)
+### login Page
+![login Page](screenshots/login.png)
 
-### Dashboard
-![Dashboard Page](screenshots/dashboard.png)
+### dashboard
+![dashboard Page](screenshots/dashboard.png)
 
-### Leaderboard
-![Leaderboard Page](screenshots/leaderboard.png)
+### leaderboard
+![leaderboard Page](screenshots/leaderboard.png)
 
