@@ -26,19 +26,16 @@ This project demonstrates frontend-backend integration with dummy API data and i
 ---
 ## Folder Structure
 intern-dashboard/
-│
-├── backend/
-│ ├── server.js
-│ ├── package.json
-│
-├── frontend/
-│ ├── index.html (Login Page)
-│ ├── dashboard.html (Dashboard Page)
-│ ├── leaderboard.html (Leaderboard Page)
-│ ├── style.css (Styling for all pages)
-│ └── script.js (Fetches API data & updates UI)
-│
-└── README.md
+ backend/
+ server.js
+ package.json
+ frontend/
+  index.html (Login Page)
+  dashboard.html (Dashboard Page)
+  leaderboard.html (Leaderboard Page)
+  style.css (Styling for all pages)
+  script.js (Fetches API data & updates UI)
+  README.md
 
 ##Run Backend
 bash
